@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?> 
-<kml xmlns="http://earth.google.com/kml/2.0"> <Document>
-
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+  <name>Hokkaido Area</name>
+    <description>Hokkaido area lines</description>
 <GroundOverlay> 
- <Icon><href> ball.png </href></Icon>
+ <Icon><href> https://github.com/hitohitodora/Weather-Project/blob/master/HokkaidoImage.png </href></Icon>
  <LatLonBox>
   <south>40.84798063593443</south><north>46.10737205477935</north>
   <west>139.02062603676757</west><east>149.05958288008412</east> 
